@@ -27,7 +27,8 @@ You can then access the application through your web browser at http://localhost
 Please note that the initial loading of the application might take some time as it fetches data from Google Drive. Kindly be patient during this process.
 
 
-Explore our online dashboard at: 
+Explore our online dashboard at: https://bansal10.pythonanywhere.com/
+Github link : https://github.com/ksudip/SoccerProjectDV
 
 contributers:
 Sudip Kumar (B20CS072)
